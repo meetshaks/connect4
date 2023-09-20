@@ -1,5 +1,5 @@
 # Connect4-Python
-Connect 4 programmed in python using pygame.
+screenshot.
 
 
 ![Screenshot 2023-08-19 194343](https://github.com/meetshaks/connect4/assets/98010607/067f780b-8b82-4489-b538-7ca24091d0ad)
